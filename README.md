@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c-santana-sp&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c-santana-sp&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-santana-sp&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-santana-sp&theme=default&langs_count=10)
